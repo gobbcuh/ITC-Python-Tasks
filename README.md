@@ -1,2 +1,2 @@
 # ITC-Python-Tasks
-ITC Python Tasks using Google Colab
+Introduction to Computing: Python Tasks using Google Colab
